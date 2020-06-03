@@ -1,0 +1,2 @@
+# CadKrav10
+EFCore
